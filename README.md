@@ -7,5 +7,5 @@ https://jsfiddle.net/CZboop/y6gd3w0n/
 * Terminal/ASCII style:
 https://jsfiddle.net/CZboop/019a2ct6/7/
 
-* RGB split:
+* RGB split effect:
 https://jsfiddle.net/CZboop/kcxmt9z8/7/
