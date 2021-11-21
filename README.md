@@ -1,7 +1,6 @@
 # Loading-Screens
 A lil collection of loading animations in HTML, CSS and JavaScript  
 
-
 Dancing rainbow text: 
 https://jsfiddle.net/CZboop/y6gd3w0n/
 
